@@ -5,12 +5,13 @@ lsi: true
 pygments: true
 safe: true
 auto: true
+timezone: Asia/Shanghai
 
 
 # presonal config
-#title: likebeta's Blog
-#feed: http://feed.ixxoo.me
-#comments: disqus
+title: 涂鸦
+feed: http://fangjh.github.io/feed.xml
+comments: disqus
 
 author:
   name: Chris Fang
