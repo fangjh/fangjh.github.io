@@ -1,0 +1,27 @@
+markdown: redcarpet
+permalink: /:title.html
+url: http://fangjh.github.io
+lsi: true
+pygments: true
+safe: true
+auto: true
+
+
+# presonal config
+#title: likebeta's Blog
+#feed: http://feed.ixxoo.me
+#comments: disqus
+
+author:
+  name: Chris Fang
+  nickname: Chris
+  email: fangjh@gmail.com
+  gmail: fangjh@gmail.com
+
+seo: 
+  keyword: 
+  description: 
+config:
+  js_dir:
+  img_dir:
+  css_dir:
