@@ -3,6 +3,7 @@ highlighter: pygments
 permalink: blog/:year/:month/:day/:title.html
 paginate: 6
 paginate_path: page/:num
+timezone: "Asia/Shanghai"
 
 blog:
     name: 涂鸦                                               # 博客名称
