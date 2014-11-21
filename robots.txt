@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: http://fangjh.github.io/sitemap.txt

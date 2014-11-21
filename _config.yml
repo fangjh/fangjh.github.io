@@ -1,0 +1,23 @@
+markdown: kramdown
+highlighter: pygments
+permalink: blog/:year/:month/:day/:title.html
+paginate: 6
+paginate_path: page/:num
+
+blog:
+    name: 涂鸦                                               # 博客名称
+    description:                                          # 博客描述
+    title:   涂鸦                                            # 网页标题
+    url:     http://fangjh.github.io                                            # 博客地址
+    duoshuo:   fangjh                                          # 多说ID
+    tongji:   d484a14a19721e09b654fb8b6fc8f8e3                                           # 百度统计ID
+    qiniu:                                               # 七牛云地址
+author:
+    name:   Chris                                             # 作者名称
+    email:   fangjh@gmail.com                                            # 邮箱地址
+    weibo:                                               # 微博地址
+    github:  https://github.com/fangjh                                            # GitHub地址
+    logo:                                                # logo地址
+    douban:
+        name:                                            # 豆瓣地址名称
+        key:                                             # 豆瓣API Key
