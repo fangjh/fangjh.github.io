@@ -288,9 +288,9 @@ a:link {
 #post-readall {
 	color:#fff;
 	background:#4d85d1;
-	font-size:17px;
+	font-size:14px;
 	margin-left:0;
-	padding:6px 20px;
+	padding:5px 15px;
 	border-radius:4px;
 	border-bottom:0;
 	letter-spacing:2px;
@@ -308,7 +308,7 @@ a:link {
 }
 .pagination-item {
 	background:#fff;
-	padding:8px 50px;
+	padding:5px 30px;
 	border:1px solid #ddd;
 	border-radius:5px;
 }
