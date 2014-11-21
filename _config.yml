@@ -19,5 +19,5 @@ author:
     github:  https://github.com/fangjh                                            # GitHub地址
     logo:                                                # logo地址
     douban:
-        name:                                            # 豆瓣地址名称
+        name: chris                                           # 豆瓣地址名称
         key: 0a17038ce1e7c63e1e450aa6a5b752ba                                            # 豆瓣API Key
