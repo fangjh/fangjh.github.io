@@ -1,6 +1,6 @@
 markdown: redcarpet
 redcarpet:
-    extensions: ["fenced_code_blocks"]
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough", "lax_spacing", "space_after_headers", "superscript", "footnotes"]
 highlighter: pygments
 permalink: blog/:year/:month/:day/:title.html
 paginate: 6
