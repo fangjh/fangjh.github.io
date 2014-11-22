@@ -1,4 +1,6 @@
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks"]
 highlighter: pygments
 permalink: blog/:year/:month/:day/:title.html
 paginate: 6
