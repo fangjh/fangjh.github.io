@@ -113,7 +113,7 @@
 .category-box-sub a {
 	text-shadow:0 0 1px;
 	letter-spacing:2px;
-	text-transform:Capitalize;
+/*	text-transform:Capitalize;*/
 	transition:padding-left 0.25s;
 	-webkit-transition:padding-left 0.25s;
 	-moz-transition:padding-left 0.25s;
